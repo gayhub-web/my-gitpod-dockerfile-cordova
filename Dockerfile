@@ -1,4 +1,4 @@
-FROM continuumio/anaconda3:latest
+FROM  tensorflow/tensorflow:1.9.0
 
 
 
